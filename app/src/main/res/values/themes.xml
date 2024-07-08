@@ -6,4 +6,7 @@
     </style>
 
     <style name="Theme.Enwallet" parent="Base.Theme.Enwallet" />
+    <style name="tvResult">
+        <item name="android:fontFamily">@font/teachers</item>
+    </style>
 </resources>
